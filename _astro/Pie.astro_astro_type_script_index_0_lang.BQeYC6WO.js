@@ -1,0 +1,1 @@
+import{n as e}from"./movimiento.6-BQmt4L.js";document.addEventListener(`astro:page-load`,()=>{document.querySelector(`[data-subir]`)?.addEventListener(`click`,()=>{let t=e();t?t.scrollTo(0,{duration:1.6}):window.scrollTo({top:0})})});
