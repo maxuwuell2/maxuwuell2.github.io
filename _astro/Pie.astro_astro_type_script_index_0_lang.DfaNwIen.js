@@ -1,0 +1,1 @@
+import{n as e}from"./movimiento.DiGJpRL-.js";document.addEventListener(`astro:page-load`,()=>{document.querySelector(`[data-subir]`)?.addEventListener(`click`,()=>{let t=e();t?t.scrollTo(0,{duration:1.6}):window.scrollTo({top:0})})});
